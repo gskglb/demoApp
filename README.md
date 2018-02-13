@@ -1,0 +1,1 @@
+A demo app for Ionic with firebase (AngularFire2)

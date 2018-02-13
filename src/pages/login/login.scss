@@ -1,0 +1,25 @@
+page-login {
+
+  .scroll-content {
+    background: url("../assets/imgs/background.jpg") no-repeat center center fixed;
+  }
+
+	#loginUI, #signUp, #resetPassword{
+		position: relative;
+		transform: translateY(-50%);
+		
+	}
+
+	#loginUI{
+		top: 50%;
+	}
+
+	#signUp{
+		top: 40%;
+	}
+
+	#resetPassword{
+		top: 40%;
+	}	
+
+}
